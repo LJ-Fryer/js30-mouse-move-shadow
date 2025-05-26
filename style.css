@@ -12,10 +12,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: black;
+  color: rgb(224, 12, 61);
 }
 
 h1 {
-  text-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
+  text-shadow: 10px 10px 0 rgba(250, 89, 2, 0.7);
   font-size: 100px;
 }
